@@ -1,6 +1,6 @@
 # research-data
-[LOCATION WITHHELD] research data
+[LOCATION WITHHELD] RESEARCH DATA.
 
-Repository of collected and reported data obtained from the [LOCATION WITHHELD] research site.
+REPOSITORY OF COLLECTED DATA OBTAINED FROM THE [LOCATION WITHHELD] RESEARCH SITE.
 
 1.
